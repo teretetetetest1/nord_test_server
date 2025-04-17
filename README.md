@@ -733,7 +733,7 @@ Nord tax과 함께 하세요</h2> </div>
 </div>
 </footer>
 <!-- 1.5 uicore_content_end -->
-</div><!-- #page -->
+<!-- #page -->
 <div class="uicore-back-to-top uicore-i-arrow uicore_hide_mobile" id="uicore-back-to-top"></div> <div class="uicore-navigation-wrapper uicore-navbar elementor-section elementor-section-boxed uicore-mobile-menu-wrapper">
 <nav class="uicore elementor-container">
 <div class="uicore-branding uicore-mobile">
@@ -788,7 +788,7 @@ Nord tax과 함께 하세요</h2> </div>
 </div>
 </div> </div>
 </div>
-<!-- 1.6 uicore_body_end --></div>
+<!-- 1.6 uicore_body_end -->
 <!-- 1.7 uicore_after_body_content --><script> 
 var uicore_frontend = {'back':'뒤로', 'rtl' : '','mobile_br' : '1025'};
  console.log( 'Using OneTenth v.1.1.0');
@@ -871,6 +871,4 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
 </script>
 <script id="wpforms-elementor-js" src="https://onetenth2.mycafe24.com/wp-content/plugins/wpforms/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.1"></script>
-</body>
-</html>
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1744783045 -->
