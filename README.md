@@ -265,6 +265,7 @@ body, body * {
 </div>
 </div>
 </div>
+<!--
 <div class="elementor-element elementor-element-037d192 e-con-full bdt-backdrop-filter-yes e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="037d192" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"600"}'>
 <div class="elementor-element elementor-element-ad78400 e-con-full e-flex e-con e-child" data-element_type="container" data-id="ad78400">
 <div class="elementor-element elementor-element-6f90dc4 elementor-widget elementor-widget-counter" data-element_type="widget" data-id="6f90dc4" data-widget_type="counter.default">
@@ -306,6 +307,7 @@ body, body * {
 </div>
 </div>
 </div>
+-->
 <div class="elementor-element elementor-element-1e2d338 elementor-absolute ep-parallax-effects-yes elementor-widget elementor-widget-image" data-element_type="widget" data-id="1e2d338" data-settings='{"_position":"absolute","ep_parallax_effects_show":"yes","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_direction":"negative","motion_fx_translateY_speed":{"unit":"px","size":2,"sizes":[]},"ep_parallax_effects_rotate_start":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_rotate_end":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_scale_start":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_scale_end":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_hue_value":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_sepia_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_easing_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_target":"self","motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
 <div class="elementor-widget-container">
 <img alt="" class="attachment-full size-full wp-image-978" decoding="async" fetchpriority="high" height="578" sizes="(max-width: 600px) 100vw, 600px" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" width="600"/> </div>
