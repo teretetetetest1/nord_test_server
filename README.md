@@ -10,7 +10,7 @@
 <title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
-<link href="https://onetenth2.mycafe24.com/" rel="canonical">
+<link href="https://teretetetetest1.github.io/nord_test_server/" rel="canonical">
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="Nord Tax - 절세 전략" property="og:title"/>
@@ -166,7 +166,7 @@ body, body * {
 }
 </style></head>
 <body class="home wp-singular page-template-default page page-id-970 wp-embed-responsive wp-theme-onetenth wp-child-theme-onetenth-child ui-a-dsmm-slide elementor-default elementor-kit-661 elementor-page elementor-page-970" data-rsssl="1" style="background-color: black;">
-<div class="uicore-animation-bg"></div><!-- Custom HTML - Page Options --><!-- 1.1 uicore_before_body_content --> <div class="uicore-body-content">
+<div class="uicore-animation-bg"><!-- Custom HTML - Page Options --><!-- 1.1 uicore_before_body_content --> <div class="uicore-body-content">
 <!-- 1.2 uicore_before_page_content --> <div id="uicore-page">
 <div class="uicore uicore-navbar elementor-section elementor-section-boxed uicore-h-classic uicore-sticky ui-smart-sticky uicore-transparent" data-uils="header" data-uils-title="Header" id="wrapper-navbar" itemscope="" itemtype="http://schema.org/WebSite"><div class="uicore-header-wrapper">
 <nav class="uicore elementor-container">
