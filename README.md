@@ -183,6 +183,7 @@ body, body * {
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
+<!--헤드 메뉴
 <div class="uicore-nav-menu">
 <div class="uicore-menu-container uicore-nav"><ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/"><span class="ui-menu-item-wrapper">회사소개</span></a>
 <ul class="sub-menu">
@@ -210,6 +211,7 @@ body, body * {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
 </ul>
 </li>
+-->
 </ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
 <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
