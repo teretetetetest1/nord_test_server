@@ -862,6 +862,6 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
 </script>
 <script id="wpforms-elementor-js" src="https://onetenth2.mycafe24.com/wp-content/plugins/wpforms/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.1"></script>
-</link></link></body>
+</body>
 </html>
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1744783045 -->
