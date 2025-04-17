@@ -718,12 +718,6 @@ Nord tax과 함께 하세요</h2> </div>
 <br/>주소: 1234 Virginia, 123123</br></br></p> </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-3f64a7a e-con-full e-flex e-con e-child" data-element_type="container" data-id="3f64a7a">
-<div class="elementor-element elementor-element-a356e83 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a356e83" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">Nord Tax. All rights reserved.</div> </div>
-</div>
-</div>
 </div>
 </div>
 </div>
