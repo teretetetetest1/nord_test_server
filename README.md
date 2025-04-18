@@ -507,7 +507,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>개인에게 꼭 맞는 컨설팅을 제공합니다 <br>365일 든든한 재 파트너</p> </div>
+<p>개인에게 꼭 맞는 컨설팅 제공<br>365일 든든한 Finance 파트너</p> </div>
 </div>
 </div>
 </div>
@@ -541,7 +541,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>복잡한 세금 내용도<br> 하나씩 분석 <br>쉽게 이해할 수 있도록 설명해주는</p> </div>
+<p>복잡한 세금 내용도<br>쉽게 이해할 수 있도록 설명해주는</p> </div>
 </div>
 </div>
 </div>
