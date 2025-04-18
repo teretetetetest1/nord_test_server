@@ -354,8 +354,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>
-완벽한 세금 솔루션.</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>완벽한 세금 솔루션</div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p></p> </div>
@@ -504,11 +503,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-01c6ab5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="01c6ab5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">정확한 계산</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Personalized</h3> </div>
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>의사들의 Cross check 처럼<br>세법 전문가의 Cross check </p> </div>
+<p>개인에게 꼭 맞는 컨설팅을 제공합니다 <br>365일 든든한 재 파트너</p> </div>
 </div>
 </div>
 </div>
@@ -538,11 +537,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-1ec4827 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1ec4827" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">세금절약</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Clear Explanation</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>클라이언트의 모든 케이스를<br> 하나씩 분석 <br>최적의 절세방안을 제시합니다.</p> </div>
+<p>복잡한 세금 내용도<br> 하나씩 분석 <br>쉽게 이해할 수 있도록 설명해주는</p> </div>
 </div>
 </div>
 </div>
@@ -572,11 +571,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f4505b5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f4505b5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">깔끔한 처리</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Practical Advice</h3> </div>
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최종 검토단계에서 <br>인공지능의 Double-check.</p> </div>
+<p>합리적인 가격에 <br>신뢰를 더하는 서비스</p> </div>
 </div>
 </div>
 </div>
@@ -590,8 +589,8 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">절세를 위한 최고의 솔루션<br/>
-Nord tax과 함께 하세요</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">More Than Just Tax Filing – A Trusted Financial Partner<br/>
+Nord Tax offers personalized consulting based on a deep understanding of your situation</h2> </div>
 </div>
 <div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
 <div class="elementor-widget-container">
