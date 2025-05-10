@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="ko-KR" prefix="og: https://ogp.me/ns#">
 <head>
 <meta charset="utf-8"/>
@@ -160,7 +158,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 
 				}
 			</style>
-</meta></meta><style>
+<style>
 body, body * {
     background-color: black !important;
     background-image: none !important;
@@ -392,7 +390,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-45e6a91 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="45e6a91" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">절세를 위한 다양한 전략을 상담받아 보세요.</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">절세를 위한 다양한 전략! 상담받아 보세요</h2> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-61b32a6 e-con-full e-grid e-con e-child" data-element_type="container" data-id="61b32a6">
