@@ -10,12 +10,17 @@
 <title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
-<link href="https://teretetetetest1.github.io/nord_test_server/" rel="canonical">
+<!--<link href="https://teretetetetest1.github.io/nord_test_server/" rel="canonical">-->
+<link rel="canonical" href="https://nordtaxwith.me/">
+	
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="Nord Tax - 절세 전략" property="og:title"/>
 <meta content="CPA와 EA가 정확하고 저렴한, 최고의 Credit을 위한 Tax filing을 준비합니다." property="og:description"/>
-<meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
+
+<!--<meta content="https://onetenth2.mycafe24.com/" property="og:url"/>-->
+<meta property="og:url" content="https://nordtaxwith.me/"/>
+
 <meta content="Nord Tax - 비즈니스 01" property="og:site_name"/>
 <meta content="2025-02-17T12:12:28+09:00" property="og:updated_time"/>
 <meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/ea_img1.png" property="og:image"/>
@@ -207,26 +212,41 @@ body, body * {
 </ul>
 </li>
 </ul></div>-->
-<div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
-<span class="elementor-button-text">
-						3초만에 문의하기                    </span>
-</a>
+<div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras">
+  <div class="uicore-cta-wrapper">
+    <a
+      class="uicore-btn"
+      href="mailto:parj1110@gmail.com"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <span class="elementor-button-text">
+        3초만에 문의하기
+      </span>
+    </a>
+  </div>
 </div>
-</div>
-<div class="uicore-mobile-head-right"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
-<span class="elementor-button-text">
-						3초만에 문의하기                    </span>
-</a>
-</div>
-<button aria-label="mobile-menu" class="uicore-toggle uicore-ham" type="button">
-<span class="bars">
-<span class="bar"></span>
-<span class="bar"></span>
-<span class="bar"></span>
-</span>
-</button>
+
+<div class="uicore-mobile-head-right">
+  <div class="uicore-cta-wrapper">
+    <a
+      class="uicore-btn"
+      href="mailto:parj1110@gmail.com"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <span class="elementor-button-text">
+        3초만에 문의하기
+      </span>
+    </a>
+  </div>
+  <button aria-label="mobile-menu" class="uicore-toggle uicore-ham" type="button">
+    <span class="bars">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </span>
+  </button>
 </div> </nav>
 </div>
 </div><!-- #wrapper-navbar end -->
@@ -250,18 +270,30 @@ body, body * {
 <div class="elementor-widget-container">
 <p>최소 3명의 회계·세무 전문가가 교차 검토하여<br> 정확한 세금 신고를 보장합니다.</p> </div>
 </div>
-<div class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="11f9b7a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper">
-<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact/">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">3초만에 문의하기</span>
-</span>
-</a>
+<div
+  class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button"
+  data-element_type="widget"
+  data-id="11f9b7a"
+  data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}'
+  data-widget_type="button.default"
+>
+  <div class="elementor-widget-container">
+    <div class="elementor-button-wrapper">
+      <a
+        class="elementor-button elementor-button-link elementor-size-sm"
+        href="mailto:parj1110@gmail.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span class="elementor-button-content-wrapper">
+          <span class="elementor-button-text">3초만에 문의하기</span>
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
 </div>
-</div>
-</div>
+
 <!--
 <div class="elementor-element elementor-element-037d192 e-con-full bdt-backdrop-filter-yes e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="037d192" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"600"}'>
 <div class="elementor-element elementor-element-ad78400 e-con-full e-flex e-con e-child" data-element_type="container" data-id="ad78400">
@@ -309,24 +341,6 @@ body, body * {
 <div class="elementor-widget-container">
 <img alt="" class="attachment-full size-full wp-image-978" decoding="async" fetchpriority="high" height="578" sizes="(max-width: 600px) 100vw, 600px" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" width="600"/> </div>
 </div>
-<div class="elementor-element elementor-element-1c2058f elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="1c2058f" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":3,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img
-  alt=""
-  class="attachment-full size-full wp-image-977"
-  decoding="async"
-  height="502"
-  sizes="(max-width: 600px) 100vw, 600px"
-  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png"
-  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png 600w"
-  width="600"
-/> </div>
-</div>
-<div class="elementor-element elementor-element-692a334 elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="692a334" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":1,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img alt="" class="attachment-full size-full wp-image-983" decoding="async" height="621" sizes="(max-width: 543px) 100vw, 543px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1.png" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1.png 543w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1-262x300.png 262w" width="543"/> </div>
-</div>
-</div>
 </div>
 <div class="elementor-element elementor-element-99ce86f e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="99ce86f" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
@@ -350,7 +364,7 @@ body, body * {
 <div class="elementor-element elementor-element-b59ff8e e-con-full e-flex e-con e-child" data-element_type="container" data-id="b59ff8e">
 <div class="elementor-element elementor-element-c81654d elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c81654d" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">최고의 Tax firm</div> </div>
+<div class="elementor-heading-title elementor-size-default"></div> </div>
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
@@ -589,23 +603,34 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">More Than Just Tax Filing – A Trusted Financial Partner<br/>
-Nord Tax offers personalized consulting based on a deep understanding of your situation</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">저렴하지만 꼼꼼한 세금신고 120$ <br/>
+지금 바로 연락주세요.</h2> </div>
 </div>
-<div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper">
-<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact/">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">3초만에 문의하기</span>
-</span>
-</a>
+<div
+  class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button"
+  data-element_type="widget"
+  data-id="3a2fb10"
+  data-widget_type="button.default"
+>
+  <div class="elementor-widget-container">
+    <div class="elementor-button-wrapper">
+      <a
+        class="elementor-button elementor-button-link elementor-size-sm"
+        href="mailto:parj1110@gmail.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span class="elementor-button-content-wrapper">
+          <span class="elementor-button-text">3초만에 문의하기</span>
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
 </div>
 </div>
 </div>
-</div>
-</div>
+
 </div><!-- #primary -->
 </div><!-- #content -->
 <footer id="uicore-tb-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
@@ -621,7 +646,7 @@ Nord Tax offers personalized consulting based on a deep understanding of your si
 </div>
 <div class="elementor-element elementor-element-c1dd603 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c1dd603" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">1234 virginia 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default">Fairfax VA 22033</div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-baa1743 e-con-full e-flex e-con e-child" data-element_type="container" data-id="baa1743">
@@ -631,11 +656,11 @@ Nord Tax offers personalized consulting based on a deep understanding of your si
 </div>
 <div class="elementor-element elementor-element-b2b86ac elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b2b86ac" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">T. 010 1234 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default">T.213-999-7828</div> </div>
 </div>
 <div class="elementor-element elementor-element-f3a8001 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f3a8001" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">F. 010 1234 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default"></div> </div>
 </div>
 </div>
 </div>
@@ -717,13 +742,13 @@ Nord Tax offers personalized consulting based on a deep understanding of your si
 <div class="elementor-element elementor-element-9d2c721 e-con-full e-flex e-con e-child" data-element_type="container" data-id="9d2c721">
 <div class="elementor-element elementor-element-62182b1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="62182b1" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default"><a href="/terms_page/privacy-policy/">개인정보처리방침</a></div> </div>
+<div class="elementor-heading-title elementor-size-default"><a href="/terms_page/privacy-policy/"></a></div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>상호명: Nord Tax<br>대표: 안지홍 <br>사업자등록번호: 123123=123123
-<br/>주소: 1234 Virginia, 123123</br></br></p> </div>
+<p>Business name: Nord Tax<br>Partner: Ji Ahn <br>Business license number : 2501032
+</p> </div>
 </div>
 </div>
 </div>
