@@ -337,10 +337,6 @@ body, body * {
 </div>
 </div>
 -->
-<div class="elementor-element elementor-element-1e2d338 elementor-absolute ep-parallax-effects-yes elementor-widget elementor-widget-image" data-element_type="widget" data-id="1e2d338" data-settings='{"_position":"absolute","ep_parallax_effects_show":"yes","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_direction":"negative","motion_fx_translateY_speed":{"unit":"px","size":2,"sizes":[]},"ep_parallax_effects_rotate_start":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_rotate_end":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_scale_start":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_scale_end":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_hue_value":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_sepia_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_easing_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_target":"self","motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img alt="" class="attachment-full size-full wp-image-978" decoding="async" fetchpriority="high" height="578" sizes="(max-width: 600px) 100vw, 600px" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" width="600"/> </div>
-</div>
 </div>
 <div class="elementor-element elementor-element-99ce86f e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="99ce86f" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
