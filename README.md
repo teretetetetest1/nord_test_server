@@ -266,7 +266,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>At lease 3 tax professionals cross-check <br>for precise tax filing</p> </div>
+<p>3 tax professionals cross-check <br>for precise tax filing</p> </div>
 </div>
 <div
   class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button"
