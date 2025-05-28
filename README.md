@@ -362,7 +362,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI agents</h2></div>
+<h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI&nbsp;agents</h2></div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p></p> </div>
