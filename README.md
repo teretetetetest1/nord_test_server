@@ -372,7 +372,7 @@ body, body * {
 <div class="elementor-button-wrapper">
 <a class="elementor-button elementor-button-link elementor-size-sm" href="/인사말/">
 <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">details</span>
+<span class="elementor-button-text">Meet the teams</span>
 </span>
 </a>
 </div>
