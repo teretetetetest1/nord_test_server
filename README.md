@@ -362,7 +362,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI agents system</h2></div>
+<h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI agents</h2></div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p></p> </div>
@@ -478,11 +478,11 @@ body, body * {
 <div class="elementor-element elementor-element-2f9ab8f e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="2f9ab8f" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-45ce606 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="45ce606" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">What make us different?</div> </div>
+<div class="elementor-heading-title elementor-size-default">What truly sets us apart?</div> </div>
 </div>
 <div class="elementor-element elementor-element-938fa79 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="938fa79" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Value of Nordtax</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">The Value We Bring.</h2> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-4450ca7 e-con-full e-grid e-con e-child" data-element_type="container" data-id="4450ca7">
@@ -597,8 +597,8 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Individual tax return starts from 120$ <br/>
-Please contact us to get a quote</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Need to file your taxes?  <br/>
+We’ve got you covered — starting at $120.</h2> </div>
 </div>
 <div
   class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button"
@@ -615,7 +615,7 @@ Please contact us to get a quote</h2> </div>
         rel="noopener noreferrer"
       >
         <span class="elementor-button-content-wrapper">
-          <span class="elementor-button-text">Quote</span>
+          <span class="elementor-button-text">Get a Quote</span>
         </span>
       </a>
     </div>
@@ -651,8 +651,8 @@ Please contact us to get a quote</h2> </div>
 <div class="elementor-element elementor-element-b2b86ac elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b2b86ac" data-widget_type="heading.default">
 <div class="elementor-widget-container">
 <div class="elementor-heading-title elementor-size-default">
-	E.<a href="mailto:info@example.com">info@nordtaxwith.me<br>
-	T.213-999-7828</a>
+	<a href="mailto:info@example.com">info@nordtaxwith.me<br>
+	213-999-7828</a>
 	</div> </div>
 </div>
 <div class="elementor-element elementor-element-f3a8001 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f3a8001" data-widget_type="heading.default">
